@@ -81,7 +81,7 @@ const Singup = () => {
               value={input.fullname}
               name="fullname"
               onChange={changeEventHandler}
-              placeholder="patel"
+              placeholder="aakansha"
             />
           </div>
           <div className='my-2'>
@@ -91,7 +91,7 @@ const Singup = () => {
               value={input.email}
               name="email"
               onChange={changeEventHandler}
-              placeholder="patel@gmail.com"
+              placeholder="aakansha@gmail.com"
             />
           </div>
           <div className='my-2'>
